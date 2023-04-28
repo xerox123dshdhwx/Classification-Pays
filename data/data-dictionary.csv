@@ -1,11 +1,11 @@
-,Column Name,Description,Mean,Variance,Standard Deviation
-0,country,Name of the country,,,
-1,child_mort,Death of children under 5 years of age per 1000 live births,38.27005988023952,1616.683654487432,40.208004855842226
-2,exports,Exports of goods and services per capita. Given as %age of the GDP per capita,41.108976047904186,746.9187875802646,27.32981499352428
-3,health,Total health spending per capita. Given as %age of GDP per capita,6.8156886227544895,7.499935903044212,2.73860108505131
-4,imports,Imports of goods and services per capita. Given as %age of the GDP per capita,46.89021497005987,582.5945924137279,24.136996342000135
-5,Income,Net income per person,17144.688622754493,369418481.61561906,19220.26226708728
-6,Inflation,The measurement of the annual growth rate of the Total GDP,7.781832335329342,111.07068048685863,10.539007566505427
-7,life_expec,The average number of years a new born child would live if the current mortality patterns are to remain the same,70.55568862275449,78.61492272939151,8.866505666235797
-8,total_fer,The number of children that would be born to each woman if the current age-fertility rates remain the same.,2.947964071856287,2.278011423858869,1.5093082600512293
-9,gdpp,The GDP per capita. Calculated as the Total GDP divided by the total population.,12964.155688622754,333929794.6943239,18273.746049847687
+,Column Name,Description
+0,country,Name of the country
+1,child_mort,Death of children under 5 years of age per 1000 live births
+2,exports,Exports of goods and services per capita. Given as %age of the GDP per capita
+3,health,Total health spending per capita. Given as %age of GDP per capita
+4,imports,Imports of goods and services per capita. Given as %age of the GDP per capita
+5,Income,Net income per person
+6,Inflation,The measurement of the annual growth rate of the Total GDP
+7,life_expec,The average number of years a new born child would live if the current mortality patterns are to remain the same
+8,total_fer,The number of children that would be born to each woman if the current age-fertility rates remain the same.
+9,gdpp,The GDP per capita. Calculated as the Total GDP divided by the total population.
